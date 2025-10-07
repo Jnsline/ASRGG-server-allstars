@@ -1,9 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/player/slow/amberlyn/sm_galaxy/goomba/slow_body"
-
- 	"$phong" "1"
-	"$phongexponent" "2"
-	"$phongboost"	"0.25"
-	"$phongfresnelranges"	"[1 .5 .5]"
-}
