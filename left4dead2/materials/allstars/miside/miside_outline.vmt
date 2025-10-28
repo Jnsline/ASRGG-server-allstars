@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture 				"serverdaniel\survivors\miside\tex_outline_purple"
+		
+	$selfill					1
+	$selfillummask				"serverdaniel\survivors\miside\tex_outline_purple"				
+}
