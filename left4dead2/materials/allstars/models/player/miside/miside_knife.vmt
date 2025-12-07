@@ -1,9 +1,0 @@
-Patch
-{
-	include							"materials\serverdaniel\survivors\miside\Kitsune_shared_base_parameters.vmt"
-	insert
-	{
-		$basetexture 				"serverdaniel\survivors\miside\tex_knife"
-		$lightwarptexture			"serverdaniel\survivors\miside\shader_basewarp"
-	}
-}
