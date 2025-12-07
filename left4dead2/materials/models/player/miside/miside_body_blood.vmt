@@ -1,0 +1,19 @@
+Patch
+{
+	include							"materials\serverdaniel\survivors\miside\Kitsune_shared_base_parameters.vmt"
+	insert
+	{
+		$basetexture 				"serverdaniel\survivors\miside\tex_miside_body_blood"
+		$lightwarptexture			"serverdaniel\survivors\miside\shader_skinwarp"
+
+		$selfillum 					"0"
+		
+		$nocull						0
+		
+		//$detail 					"serverdaniel\survivors\miside\tex_miside_body"
+		//$detailblendfactor 		".05"
+		//$detailblendmode			"5"
+		//$detailtint 				"[1 1 1]"
+		//$detailscale       		"1"
+	}
+}
