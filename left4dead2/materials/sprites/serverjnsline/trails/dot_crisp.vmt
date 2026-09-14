@@ -1,0 +1,9 @@
+"Sprite"
+{
+    "$basetexture" "sprites/store/trails/dot_crisp"
+    "$spriteorientation" "vp_parallel"
+    "$spriteorigin" "[0.5 0.5]"
+    "$translucent" "1"
+    "$vertexcolor" "1"
+    "$vertexalpha" "1"
+}
